@@ -1,3 +1,4 @@
+# Hey👋 I'm Chittarnjan Das
 # 💫 About Me:
 🔍 Aspiring Data Scientist & AI Enthusiast | Turning Data into Insights and Solutions<br><br>Hello! I’m a Data Science & AI student with a passion for uncovering insights from data and applying artificial intelligence to solve real-world problems. My academic journey and hands-on projects have equipped me with skills in data analysis, machine learning, and deep learning.
 
